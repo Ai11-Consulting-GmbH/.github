@@ -1,6 +1,0 @@
-{
-  "name": "Auto Review Assignment",
-  "description": "Auto-assigns AstraAi11 as reviewer on PRs from DiegoAi11",
-  "iconName": "octicon code-review",
-  "categories": ["Automation"]
-}
